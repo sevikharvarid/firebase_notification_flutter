@@ -1,4 +1,4 @@
-# notifications_push_flutter_simple
+# firebase_notification_flutter
 
 A new Flutter project.
 
